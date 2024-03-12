@@ -10,7 +10,7 @@ const collectEmployees = function() {
   while (addEmployee) {
     let firstName = window.prompt("What is the employee's first name?");
     let lastName = window.prompt("What is the employee's last name?");
-    let salary = parseInt(window.prompt("What is the employee's salary?"));
+    let salary = parseFloat(window.prompt("What is the employee's salary?"));
  
     if (!isNaN(salary)) {
       employees.push({ firstName, lastName, salary });
