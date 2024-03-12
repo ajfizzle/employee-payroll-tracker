@@ -67,4 +67,4 @@ As a payroll manager, I want an employee payroll tracker so that I can see my em
 - https://developer.mozilla.org/en-US/docs/Web/API/Window/window
 
 ## License
-- This project is licensed under the MIT License.
+- This code is provided under an open-source license (to be determined). Please refer to the license file for specific terms and conditions.
