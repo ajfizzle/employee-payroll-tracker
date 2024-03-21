@@ -1,7 +1,7 @@
-# employee-payroll-tracker
-Bootcamp HTML /CSS exercise 3
+## employee-payroll-tracker
+Bootcamp HTML /CSS exercise - Module 3 Challenge
 
-# Bootcamp Employee Payroll Tracker Starter Code Exercise 3
+## JavaScript Challenge: Employee Payroll Tracker
 Employee Payroll Tracker
 
 ## Table of Contents
