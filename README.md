@@ -1,5 +1,5 @@
 ## employee-payroll-tracker
-Bootcamp HTML /CSS exercise - Module 3 Challenge
+Module 3 Challenge
 
 ## JavaScript Challenge: Employee Payroll Tracker
 Employee Payroll Tracker
